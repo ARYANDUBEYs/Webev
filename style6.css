@@ -30,7 +30,7 @@ body { background: #f7f8fb; color: #111; padding: 20px; }
 /* image sizing */ 
 .product-image { 
   width: 100%;                    /* width */ 
-  height: 200px;                  /* height */ 
+  height: 350px;                  /* height */ 
   object-fit: cover; 
   display: block;                 /* block-level image */ 
   margin-bottom: 10px; 
